@@ -1,0 +1,35 @@
+img{
+    max-width: 100%;
+    display:block;
+}
+
+.coin-name{
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.prices{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    padding: 20px 0;
+}
+.btc{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    padding: 20px 0;
+    color: #111;
+    font-size: 16px;
+
+}
+.usd{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    padding: 20px 0;
+    color: grey;
+    font-size: 12px;
+
+}
